@@ -1,1 +1,1 @@
-load balancing algorithms
+Load Balancing Algorithms
